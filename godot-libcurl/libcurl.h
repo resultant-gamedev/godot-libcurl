@@ -18,9 +18,11 @@ protected:
    static void _bind_methods();
 
 public:
-   void method(int variable);
-   void othermethod(CURL handle);
-
+   /*
+   #############################
+          Easy interface
+   #############################
+   */
    void easy_cleanup(CURL handle);
    CURL easy_duphandle();
    char easy_escape(CURL curl, auto data, int length);
