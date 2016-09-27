@@ -8,8 +8,8 @@ Because module specific documentation isn't really a thing in godot, please use 
 
 # Installation
 
-You'll most likely need `libcurl-dev` package to get this thing up and compiling. Just run the following command and get all the stuff inside it: 
+You'll most likely need `libcurl-dev` package to get this thing up and compiling. Just run the following command to get all of the libcurl action
 
-`sudo apt install libcurl-dev`
+`sudo apt install libcurl4-openssl-dev libcurl4-nss-dev libcurl4-gnutls-dev`
 
 You can find more information about libcurl at https://curl.haxx.se/libcurl/c/libcurl.html 
