@@ -4,4 +4,6 @@
 
 Libcurl is a popular solution for HTTPS, FTP, SMTP, POP3, IMAP and countless other protocols licensed under MIT/X license. Please note that currently it's work in progress so basically nothing works :D 
 
+Because module specific documentation isn't really a thing in godot, please use API index https://curl.haxx.se/libcurl/c/allfuncs.html to get what it's all about. 
+
 You can find more information about libcurl at https://curl.haxx.se/libcurl/c/libcurl.html 
